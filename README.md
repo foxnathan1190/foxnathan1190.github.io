@@ -1,5 +1,5 @@
 Home Page
-<img width="1920" height="1923" alt="image" src="https://github.com/user-attachments/assets/188145ed-cd94-4afb-881c-baf5c4e0ba12" />
+<img width="322" height="319" alt="image" src="https://github.com/user-attachments/assets/188145ed-cd94-4afb-881c-baf5c4e0ba12" />
 <img width="322" height="319" alt="image" src="https://github.com/user-attachments/assets/be27693b-c216-4af8-a399-c1758ae2ef45" />
 I have been a zookeeper for 10+ years and have learned to work on a team and thrive in that environment. Being a zookeeper has also given me a great deal of compassion and work ethic that are both integral to any career. I am currently learning coding JavaScript and Java though LaunchCode in order to break into a tech career. I have learned to overcome difficulties in coding and maintain the goal of learning new concepts to broaden my coding base. I hope to become a junior developer with senior developer on the horizon. I want to work for a quality company that values me but also shows flexibility.
 
