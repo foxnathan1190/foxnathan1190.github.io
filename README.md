@@ -6,7 +6,7 @@ I have been a zookeeper for 10+ years and have learned to work on a team and thr
 
 <h3><u>Resume and Achievements</u></h3>
 
-https://docs.google.com/document/d/1o6AdNGjTBQLteilnowmEEg1XecNc7Mv6SpoSVd9qWK8/edit?usp=sharing
+<a href="https://docs.google.com/document/d/1o6AdNGjTBQLteilnowmEEg1XecNc7Mv6SpoSVd9qWK8/edit?usp=sharing">Resume</a>
 
 
 <h3><u>Project Work</u></h3>
