@@ -1,5 +1,6 @@
 <body style="background-image: linear-gradient(to right, forestgreen, skyblue);">
 <h1><u>Home Page</u></h1>
+<main style="background color: whitesmoke;">
 <img width="322" height="319" alt="image" src="https://github.com/user-attachments/assets/188145ed-cd94-4afb-881c-baf5c4e0ba12" />
 <img width="322" height="319" alt="image" src="https://github.com/user-attachments/assets/be27693b-c216-4af8-a399-c1758ae2ef45" />
 
@@ -21,4 +22,5 @@ Drink Local - An app that allows the user to search through an extensive collect
 <h4><u>Contact</u></h4>
 
 foxnathan1190@gmail.com
+</main>
 </body>
