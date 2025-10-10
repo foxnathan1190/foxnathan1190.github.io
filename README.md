@@ -1,4 +1,4 @@
-<h1><u>Home Page</u></h1>
+ <h1><u>Home Page</u></h1>
 <img width="322" height="319" alt="image" src="https://github.com/user-attachments/assets/188145ed-cd94-4afb-881c-baf5c4e0ba12" />
 <img width="322" height="319" alt="image" src="https://github.com/user-attachments/assets/be27693b-c216-4af8-a399-c1758ae2ef45" />
 
@@ -12,6 +12,8 @@ I have been a zookeeper for 10+ years and have learned to work on a team and thr
 <h3><u>Project Work</u></h3>
 
 Drink Local - An app that allows the user to search through an extensive collection of breweries to find one in the city they are traveling to. It can also be used to search for a specific brewery if they want more information on it. There is a login and account creation with age verification and a profile page made from those details.
+
+<a href="https://drink-local.netlify.app/">Drink Local</a>
 
 <img width="1342" height="594" alt="Screenshot 2025-09-14 192029" src="https://github.com/user-attachments/assets/de51ea0d-0e3b-4cd4-adb3-712c2a948f75" />
 
