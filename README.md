@@ -17,7 +17,7 @@ Drink Local - An app that allows the user to search through an extensive collect
 
 <a href="https://drink-local.netlify.app/">Drink Local</a>
 
-<img width="1342" height="594" alt="Screenshot 2025-09-14 192029" src="https://github.com/user-attachments/assets/de51ea0d-0e3b-4cd4-adb3-712c2a948f75" />
+<img style="border: 5px solid black;" width="1342" height="594" alt="Screenshot 2025-09-14 192029" src="https://github.com/user-attachments/assets/de51ea0d-0e3b-4cd4-adb3-712c2a948f75" />
 
 <h4><u>Contact</u></h4>
 
