@@ -13,8 +13,8 @@
 
 <h3><u>Project Work</u></h3>
 
-<p>Drink Local 
-🍻 Full-Stack Brewery Explorer Application (LaunchCode Final Project)
+<p>Drink Local --
+Full-Stack Brewery Explorer Application (LaunchCode Final Project)
 This project is a complete, full-stack web application designed to demonstrate proficiency in modern persistence, security, and API integration.
 
 Backend & Data Persistence: Developed a robust backend using Java Spring Boot to handle business logic, user authentication, and data transactions. Data persistence is managed via a MySQL database, utilizing a secure architecture to store and retrieve user profiles and a many-to-many relationship for saved brewery lists.
